@@ -12,4 +12,4 @@ const texto1 = "ALURA";
 const texto2 = "alura";
 console.log(texto2.toUpperCase())
 console.log(texto1===texto2.toUpperCase());
-//dd
+//
